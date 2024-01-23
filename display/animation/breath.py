@@ -22,4 +22,4 @@ def breathing_effect(color, duration, steps):
 
 # 숨쉬는 효과를 무한 반복
 while True:
-    breathing_effect(color, duration=2.0, steps=50)
+    breathing_effect(color, duration=5.0, steps=100)

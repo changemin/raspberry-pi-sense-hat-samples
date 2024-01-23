@@ -5,4 +5,4 @@ blue = (0, 0, 255)
 yellow = (255, 255, 0)
 
 while True:
-  sense.show_message("Astro Pi is awesome!", text_colour=yellow, back_colour=blue, scroll_speed=0.05)
+  sense.show_message("Hello World@@@", text_colour=(255,255,255), back_colour=(0,0,0), scroll_speed=0.25)
